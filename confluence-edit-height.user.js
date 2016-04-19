@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Confluence edit fix
 // @namespace    http://tampermonkey.net/
-// @version      0.2
+// @version      0.3
 // @description  Change the height on the edit form to fit browser viewport height
 // @author       Ilon Sjögren
-// @match        https://confluence.mtg.com/pages/editpage.action*
+// @include      /^https?://confluence\..*/pages/(create|edit){1}page.action.*$/
 // @grant        none
 // ==/UserScript==
 

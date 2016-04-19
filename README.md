@@ -9,8 +9,5 @@ Automatically resizes when window gets resized.
 
 # Installation
 1. Install [Tampermonkey](http://tampermonkey.net/) extension
-2. Open the extension and go to `Utilities` and load script by:
- * URL `https://github.com/ilons/tampermonkey-confluence-edit-fix/raw/master/confluence-edit-height.user.js`
- * Importing the latest release `https://github.com/ilons/tampermonkey-confluence-edit-fix/releases`
- * Import the downloaded file
-
+2. Open the user script in your browser: [confluence-edit-height.user.js](https://github.com/ilons/tampermonkey-confluence-edit-fix/raw/master/confluence-edit-height.user.js). 
+3.  Click `Install`

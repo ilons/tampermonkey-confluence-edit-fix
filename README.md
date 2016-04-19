@@ -13,4 +13,3 @@ Automatically resizes when window gets resized.
  * URL `https://github.com/ilons/tampermonkey-confluence-edit-fix/raw/master/confluence-edit-height.user.js`
  * Importing the latest release `https://github.com/ilons/tampermonkey-confluence-edit-fix/releases`
  * Import the downloaded file
-
